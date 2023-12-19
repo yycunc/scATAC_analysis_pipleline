@@ -2,7 +2,7 @@
 ## Overview
 
 ## Codes for analysis
-1. scATACseq_analysis_pipeline_zbrafish.R:
+1. scATACseq_analysis_pipeline_for_major_celltypes.R:
    The codes listed in this file were used for data pre-processing, clustering, peak calling and differential accessibility analysis for the scATAC-seq dataset
 
 2. scATACseq_analysis_pipeline_for_subclusters.R:
